@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "cd website && gatsby build --prefix-paths && gh-pages -d public"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Kenya-West/RFBR-grant/issues"
   },
-  "homepage": "https://github.com/Kenya-West/RFBR-grant#readme"
+  "homepage": "https://github.com/Kenya-West/RFBR-grant#readme",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
 }
