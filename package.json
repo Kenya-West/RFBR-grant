@@ -1,0 +1,22 @@
+{
+  "name": "rfbr-grant-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kenya-West/RFBR-grant.git"
+  },
+  "keywords": [
+    "RFBR;РФФИ;grant;грант"
+  ],
+  "author": "Kenya-West",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kenya-West/RFBR-grant/issues"
+  },
+  "homepage": "https://github.com/Kenya-West/RFBR-grant#readme"
+}
