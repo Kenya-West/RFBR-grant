@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "cd website && gatsby build --prefix-paths && gh-pages -d public"
+    "develop": "cd website && gatsby develop",
+    "deploy": "cd website && gatsby build --prefix-paths && gh-pages -d public -r https://github.com/Kenya-West/RFBR-grant"
   },
   "repository": {
     "type": "git",
