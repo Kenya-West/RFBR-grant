@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{w2l6:function(e,n,t){"use strict";t.r(n);var l=t("q1tI"),a=t.n(l),u=t("Bl7J");n.default=function(){return a.a.createElement(u.a,null,a.a.createElement("h1",null,"404 - НЕ НАЙДЕНО"),a.a.createElement("p",null,"Вы перешли на страницу, которая была удалена или не существует"))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-d7f776a08b952f19fad0.js.map
