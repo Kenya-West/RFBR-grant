@@ -126,4 +126,7 @@ dist
 # Serverless Webpack directories
 .webpack/
 
+# gatsby generated
+website/public/
+
 # End of https://www.toptal.com/developers/gitignore/api/node
